@@ -53,8 +53,7 @@ cd crop-production-dashboard
 
 ## 📷 Screenshots
 ![Crop Production Overview](Screenshots/Crop Production Overview.png)
-![Crop Specific Analysis](Screenshots/Crop Specific Analysis.png)
-![Regional Crop Analysis](Screenshots/Regional Crop Analysis.png)
+
 
 ---
 
