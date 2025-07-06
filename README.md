@@ -54,6 +54,10 @@ cd crop-production-dashboard
 ## 📷 Screenshots
 ![Crop Production Overview](https://github.com/visal2002/crop-production-dashboard/blob/17c7bae77fca007a837a4a3fd8dd1a525d4988f5/Screenshots/Crop%20Production%20Overview.png)
 
+![Regional Crop Analysis](https://github.com/visal2002/crop-production-dashboard/blob/a29f1236fbba793fef06ccaf922057c215832b9e/Screenshots/Regional%20Crop%20Analysis.png)
+
+![Crop Specific Analysis](https://github.com/visal2002/crop-production-dashboard/blob/a29f1236fbba793fef06ccaf922057c215832b9e/Screenshots/Crop%20Specific%20Analysis.png)
+
 
 ---
 
