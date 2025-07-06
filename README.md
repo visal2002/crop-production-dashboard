@@ -52,7 +52,7 @@ cd crop-production-dashboard
 ---
 
 ## 📷 Screenshots
-![Crop Production Overview](Screenshots/Crop Production Overview.png)
+![Crop Production Overview](https://github.com/visal2002/crop-production-dashboard/blob/17c7bae77fca007a837a4a3fd8dd1a525d4988f5/Screenshots/Crop%20Production%20Overview.png)
 
 
 ---
